@@ -5,6 +5,7 @@ Aplicación Android para gestionar una base de datos de películas, desarrollada
 ---
 
 ##  Capturas de pantalla
+<img width="702" height="1600" alt="image" src="https://github.com/user-attachments/assets/25d8e505-a4ab-484d-8b5b-333c8b229c7b" />
 
 
 
@@ -90,7 +91,7 @@ com.example.perrines_movies/
 
 ---
 
-## 🛠️ Tecnologías usadas
+##  Tecnologías usadas
 
 - **Kotlin**
 - **Android Room** (SQLite)
