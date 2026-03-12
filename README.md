@@ -6,9 +6,11 @@ Aplicación Android para gestionar una base de datos de películas, desarrollada
 
 ##  Capturas de pantalla
 
-> _Agrega aquí tus capturas cuando tengas la app corriendo_
+
 
 ---
+
+
 
 ##  Descripción
 
