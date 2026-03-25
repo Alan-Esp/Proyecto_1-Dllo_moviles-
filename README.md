@@ -1,6 +1,6 @@
 #  Perrines Movies
 
-Aplicación Android para gestionar una base de datos de películas, desarrollada en Kotlin con Room (SQLite). Proyecto para la materia de **Base de Datos**.
+Aplicación Android para gestionar una base de datos de películas, desarrollada en Kotlin con Room (SQLite). Proyecto para la materia de **Base de Desarollo de aplicaciones moviles**.
 
 ---
 
